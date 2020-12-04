@@ -1,4 +1,4 @@
-﻿## HOST DISCOVERY
+﻿## HOST-DISCOVERY
 
 function Host-Discovery
 {
@@ -42,7 +42,7 @@ function Host-Discovery
     }
 }
 
-## PII LOCATOR
+## PII-LOCATOR
 
 function PII-Location
 {
